@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "45AA210E5E820078BF1D3C525FCFC1DD451A8154",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "807DDA0BF95DA3A28A5431209272902EED22AA05" : 9223372036854775807,
+    "45AA210E5E820078BF1D3C525FCFC1DD451A8154" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3105B213-59E3-4922-AAE9-86960B75D6AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "807DDA0BF95DA3A28A5431209272902EED22AA05" : "..",
+    "45AA210E5E820078BF1D3C525FCFC1DD451A8154" : "MobileDevelopmentClass\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "assignment 1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "materials\/Lecture 3\/assignment 1\/assignment 1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ComputeCycles\/MobileDevelopmentClass.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "45AA210E5E820078BF1D3C525FCFC1DD451A8154"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jackc171998\/Mobile-Dev..git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "807DDA0BF95DA3A28A5431209272902EED22AA05"
+    }
+  ]
+}
